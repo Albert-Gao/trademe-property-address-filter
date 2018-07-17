@@ -63,4 +63,5 @@ function start() {
   });
 }
 
+// TODO: Run only on Property page
 start();
