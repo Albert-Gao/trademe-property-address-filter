@@ -9,11 +9,13 @@ const BLACK_LIST = [
   "Clendon Park",
   "Franklin",
   "Gulf Harbour",
+  "Helensville",
   "Mangere",
   "Manurewa",
   "Otahuhu",
   "Otara",
   "Randwick Park",
+  "Stanmore Bay",
   "Warkworth",
   "Weymouth"
 ];
@@ -63,5 +65,6 @@ function start() {
   });
 }
 
+// TODO: Some ADV may includes address we want?
 // TODO: Run only on Property page
 start();
